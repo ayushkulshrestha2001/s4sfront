@@ -20,7 +20,7 @@ In the session(video call) , using IBM speech to text and summarizer API, platfo
 ## Instruction to Run the repos:
 ### Frontend
 #### -Clone the repo using git:
-     git clone https://github.com/jinik21/s4sfrontend.git
+     git clone https://github.com/ayushkulshrestha2001/s4sfront.git
 #### -Install Node packages using NPM run :
      npm i
 #### -Start the server and frontend using:
@@ -31,7 +31,7 @@ In the session(video call) , using IBM speech to text and summarizer API, platfo
  
 ### Backend
 #### -Clone the repo using git:
- 	   git clone https://github.com/jinik21/s4sbackend.git
+ 	   git clone https://github.com/ayushkulshrestha2001/s4sback.git
 #### -Install Node packages using NPM run :
      npm i
 #### -Start the server and frontend using:
@@ -59,5 +59,5 @@ In the session(video call) , using IBM speech to text and summarizer API, platfo
 - https://shrink4shrink.herokuapp.com/ (Backend)
 
 ## Our Repositories:
-- https://github.com/jinik21/s4sfrontend
-- https://github.com/jinik21/s4sbackend
+- https://github.com/ayushkulshrestha2001/s4sback
+- https://github.com/ayushkulshrestha2001/s4sfront
