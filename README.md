@@ -57,6 +57,10 @@ In the session(video call) , using IBM speech to text and summarizer API, platfo
 ## Live Demo at:
 - https://shrink4shrink.netlify.app/  (Frontend)
 - https://shrink4shrink.herokuapp.com/ (Backend)
+- Login email as doctor - admin@botalysis.com
+- Password - 12345678
+- Login email as patient - vulcan@botalysis.com
+- Password - 12345678 
 
 ## Our Repositories:
 - https://github.com/ayushkulshrestha2001/s4sback
